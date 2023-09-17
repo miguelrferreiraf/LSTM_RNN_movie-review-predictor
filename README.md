@@ -12,11 +12,11 @@ Although Flask isn't anymore commonly used, it still a very good choice for basi
 ## Streamlit
 <img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/image27_frqkzv.png" alt="flask" width="35%" height="35%">
 
-<img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/home.png" alt="flask" width="75%" height="75%">
+<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/home.png" alt="flask" width="75%" height="75%"></div>
 
-<img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/prediction.png" alt="flask" width="55%" height="55%">
+<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/prediction.png" alt="flask" width="75%" height="75%"></div>
 
-<img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/run_app.png" alt="flask" width="55%" height="55%">
+<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/run_app.png" alt="flask" width="85%" height="85%"></div>
 
 
 
