@@ -19,6 +19,8 @@ Streamlit allows us to deploy our app as a web service not necessarily requiring
 
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/home.png" alt="flask" width="75%" height="75%"></div>
 
+Now let's test our RNN with a simple critics example.
+
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/prediction.png" alt="flask" width="75%" height="75%"></div>
 
 ### Running through `streamlit run app.py`
