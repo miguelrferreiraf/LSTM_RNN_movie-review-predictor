@@ -12,6 +12,8 @@ Although Flask isn't anymore commonly used, it still a very good choice for basi
 ## Streamlit
 <img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/image27_frqkzv.png" alt="flask" width="35%" height="35%">
 
+Streamlit allows us to deploy our app as a web service not necessarily requiring CSS files for template creation. 
+
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/home.png" alt="flask" width="75%" height="75%"></div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/prediction.png" alt="flask" width="75%" height="75%"></div>
