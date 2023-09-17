@@ -27,7 +27,7 @@ Now let's test our RNN with a simple critics example.
 
 As we can see below, the server registers any requisition done in the app. In this case, it was that critic made in the last image.
 
-<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/run_app.png" alt="flask" width="85%" height="85%"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/run_app.png" alt="flask" width="65%" height="65%"></div>
 
 
 
