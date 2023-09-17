@@ -14,9 +14,16 @@ Although Flask isn't anymore commonly used, it still a very good choice for basi
 
 Streamlit allows us to deploy our app as a web service not necessarily requiring CSS files for template creation. 
 
+## Seeing it working
+### Home
+
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/home.png" alt="flask" width="75%" height="75%"></div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/prediction.png" alt="flask" width="75%" height="75%"></div>
+
+### Running through `streamlit run app.py`
+
+As we can see below, the server registers any requisition done in the app. In this case, it was that critic made in the last image.
 
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor/main/img/run_app.png" alt="flask" width="85%" height="85%"></div>
 
