@@ -1,6 +1,7 @@
 # LSTM/RNN movie review predictor (yet to be upgraded)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## About Flask
 
